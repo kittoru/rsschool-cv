@@ -1,1 +1,1 @@
-https://kittoru.github.io/rsschool-cv/cv
+[link](https://kittoru.github.io/rsschool-cv/cv)
