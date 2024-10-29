@@ -16,9 +16,7 @@ I was self-educating and learned frontend on my own, but now I want to get a goo
 
 |            Strengths           |           Weakness            |
 |:------------------------------:|:-----------------------------:|
-|  Positive                      | Positive                      |
-|  attitude and inappropriate    | attitude and inappropriate    |
-|  jokes                         | jokes                         |
+|  Positive attitude and inappropriate jokes |  Positive attitude and inappropriate jokes |
 
 
 ## Skills
