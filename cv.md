@@ -1,25 +1,26 @@
-#Elizaveta Gnetneva
+# Elizaveta Gnetneva
 
-##Сontact: 
+## Сontact: 
+
 - [Telegram](https://t.me/kittoruFromHell)
-- [Discord](kit.big.fish.hehe)
+- Discord: kit.big.fish.hehe
 
 
-##About me
+## About me
+
 I'm an ordinary person who wants to combine business with pleasure🌸 
 
-*🌊My love for aesthetic vibes🌼 + 💅memes🤡 + 💀programming👩‍💻 = frontend🔨🦈*
+> *🌊My love for aesthetic vibes🌼 + 💅memes🤡 + 💀programming👩‍💻 = frontend🔨🦈*
 
 I was self-educating and learned frontend on my own, but now I want to get a good foundation and get rid of gaps in my knowledge.
 
-Strengths:
-- Positive attitude and inappropriate jokes.
-
-Weakness:
-- Positive attitude and inappropriate jokes.
+                  Strengths                  |                  Weakness
+---------------------------------------------|---------------------------------------------
+  Positive attitude and inappropriate jokes  |  Positive attitude and inappropriate jokes
 
 
-##Skills
+## Skills
+
 - HTML, CSS(SASS), JS;
 - TailwindCSS;
 - ReactJS;
@@ -30,7 +31,8 @@ Weakness:
 - Figma.
 
 
-##Code
+## Code
+
 [Link on task](https://www.codewars.com/kata/reviews/5808e2076b65bff355000091/groups/58785870d166c7dfc1000783)
 
 ```
@@ -40,7 +42,7 @@ function position(letter) {
 ```
 
 
-##Work Experience
+## Work Experience
 
 - [Portfolio](https://kittoru.github.io/Portfolio-2024/)
 - [Simple](https://kittoru.github.io/Simple/)
@@ -49,13 +51,13 @@ function position(letter) {
 - [Todo](https://kittoru.github.io/Todo-List/)
 
 
-##Education
+## Education
 
 - RSUE (RINH), FKTIB, 09.03.04 "SOFTWARE ENGINEERING", 2019-2024;
 - Social network Internet.
 
 
-##English Language
+## English Language
 
 I can read memes.
 
