@@ -14,11 +14,11 @@ I'm an ordinary person who wants to combine business with pleasure🌸
 
 I was self-educating and learned frontend on my own, but now I want to get a good foundation and get rid of gaps in my knowledge.
 
-            Strengths           |           Weakness            
-:------------------------------:|:------------------------------:
-  Positive                      | Positive
-  attitude and inappropriate    | attitude and inappropriate
-  jokes                         | jokes
+|            Strengths           |           Weakness            |
+|:------------------------------:|:-----------------------------:|
+|  Positive                      | Positive                      |
+|  attitude and inappropriate    | attitude and inappropriate    |
+|  jokes                         | jokes                         |
 
 
 ## Skills
